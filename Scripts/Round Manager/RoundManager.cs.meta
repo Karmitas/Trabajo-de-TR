@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 803f8b7cdd02f3d4b855ffb23617ef8d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aSpawn: {instanceID: 0}
+  - bSpawn: {instanceID: 0}
+  - cSpawn: {instanceID: 0}
+  - dSpawn: {instanceID: 0}
+  - enemy1Type: {fileID: 4187002497973196426, guid: 105a391580d1993408e9cbfb7eef2184, type: 3}
+  - enemy2Type: {fileID: 3326919862765586172, guid: 5299e236c1782264ebc2dc54832c7b5f, type: 3}
+  - chests: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

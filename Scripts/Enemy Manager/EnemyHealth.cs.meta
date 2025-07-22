@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8d7645dc72828a54a88746ee0c9c246c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - damage: {instanceID: 0}
+  - characterParent: {instanceID: 0}
+  - bloodPrefab: {fileID: 308862667955969916, guid: 39e65a07218fc0b479b50a0546e19891, type: 3}
+  - skyboxMaterial: {fileID: 2100000, guid: 9486460e81b0de74cb37aaa8c0337399, type: 2}
+  - bossSkyboxMaterial: {fileID: 2100000, guid: 458e5bd62b3c3c5409b1a7ad68736dad, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

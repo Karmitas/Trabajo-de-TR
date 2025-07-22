@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2376a8a0a77e4654db6ba155fc72f141
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyAttack: {instanceID: 0}
+  - parentObject: {instanceID: 0}
+  - bloodPrefab: {fileID: 308862667955969916, guid: 39e65a07218fc0b479b50a0546e19891, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
